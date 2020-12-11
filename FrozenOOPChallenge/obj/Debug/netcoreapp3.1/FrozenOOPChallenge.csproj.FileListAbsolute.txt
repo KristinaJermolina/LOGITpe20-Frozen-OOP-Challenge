@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\FrozenOOPChallenge\FrozenOOPChallenge\bin\Debug\netcoreapp3.1\FrozenOOPChallenge.exe
+C:\Users\opilane\source\repos\FrozenOOPChallenge\FrozenOOPChallenge\bin\Debug\netcoreapp3.1\FrozenOOPChallenge.deps.json
+C:\Users\opilane\source\repos\FrozenOOPChallenge\FrozenOOPChallenge\bin\Debug\netcoreapp3.1\FrozenOOPChallenge.runtimeconfig.json
+C:\Users\opilane\source\repos\FrozenOOPChallenge\FrozenOOPChallenge\bin\Debug\netcoreapp3.1\FrozenOOPChallenge.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FrozenOOPChallenge\FrozenOOPChallenge\bin\Debug\netcoreapp3.1\FrozenOOPChallenge.dll
+C:\Users\opilane\source\repos\FrozenOOPChallenge\FrozenOOPChallenge\bin\Debug\netcoreapp3.1\FrozenOOPChallenge.pdb
+C:\Users\opilane\source\repos\FrozenOOPChallenge\FrozenOOPChallenge\obj\Debug\netcoreapp3.1\FrozenOOPChallenge.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FrozenOOPChallenge\FrozenOOPChallenge\obj\Debug\netcoreapp3.1\FrozenOOPChallenge.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FrozenOOPChallenge\FrozenOOPChallenge\obj\Debug\netcoreapp3.1\FrozenOOPChallenge.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FrozenOOPChallenge\FrozenOOPChallenge\obj\Debug\netcoreapp3.1\FrozenOOPChallenge.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FrozenOOPChallenge\FrozenOOPChallenge\obj\Debug\netcoreapp3.1\FrozenOOPChallenge.dll
+C:\Users\opilane\source\repos\FrozenOOPChallenge\FrozenOOPChallenge\obj\Debug\netcoreapp3.1\FrozenOOPChallenge.pdb
+C:\Users\opilane\source\repos\FrozenOOPChallenge\FrozenOOPChallenge\obj\Debug\netcoreapp3.1\FrozenOOPChallenge.genruntimeconfig.cache
